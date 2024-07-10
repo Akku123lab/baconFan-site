@@ -2,16 +2,16 @@
 
 h1{
     font-size: 50px;
-    color: red;
+    color: #ff0000;
 
 }
 img:hover{
-    background-color: gold;
+    background-color: #ffd700;
 }
 
-.A{background-color: green;
+.A{background-color: #008000;
 }
-.B{background-color: blueviolet;
+.B{background-color: #8a2be2;
 }
 .A{border-radius: 50%;
 }
@@ -19,5 +19,5 @@ img:hover{
 .B{border-radius: 50%;
 }
 h1{
-    color: blue;
+    color: #0000ff;
 }
